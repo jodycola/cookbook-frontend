@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cookbook-frontend",
+    "slug": "cookbook-frontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cookbook-frontend"
+}
